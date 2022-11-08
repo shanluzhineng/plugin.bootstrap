@@ -2,7 +2,7 @@ module github.com/abmpio/plugin.bootstrap
 
 go 1.19
 
-require github.com/abmpio/upack v0.0.0-20221026141642-c6c2651954e7
+require github.com/abmpio/upack v0.0.0-20221103080123-e74384762e69
 
 require (
 	github.com/google/uuid v1.3.0 // indirect
