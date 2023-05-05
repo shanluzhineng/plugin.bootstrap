@@ -11,9 +11,9 @@ import (
 	upack "github.com/abmpio/upack/pkg"
 )
 
-func init() {
-	fmt.Println("pluginbootstrap init function called")
-}
+// func init() {
+// 	fmt.Println("pluginbootstrap init function called")
+// }
 
 type Bootstrap struct {
 	installedPluginList []*upack.InstalledPackage
