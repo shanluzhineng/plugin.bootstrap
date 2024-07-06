@@ -7,8 +7,8 @@ import (
 	"plugin"
 	"strings"
 
-	"github.com/abmpio/upack/cmd"
-	upack "github.com/abmpio/upack/pkg"
+	"github.com/shanluzhineng/upack/cmd"
+	upack "github.com/shanluzhineng/upack/pkg"
 )
 
 // func init() {

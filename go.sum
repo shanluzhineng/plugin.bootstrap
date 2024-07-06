@@ -1,6 +1,0 @@
-github.com/abmpio/upack v0.0.0-20221103080123-e74384762e69 h1:hkFHbtC+NZzNPvc0SQrktDK3a1I4Z76HIWgtzGVzwkk=
-github.com/abmpio/upack v0.0.0-20221103080123-e74384762e69/go.mod h1:rA1KNyBvfFKUNN9u8o9DntfPht63EcwXHoPsLCvw/tA=
-github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
-github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
-github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
-github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
